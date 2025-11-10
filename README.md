@@ -76,7 +76,7 @@ Make sure you have installed:
 ### Step 1: Clone the Repository
 
 ```bash
-https://github.com/Thilipan55/Athlete-NFT
+https://github.com/Lalith2636/Athlete-NFT
 cd Athlete-NFT
 ```
 ### Step 2:
